@@ -1,8 +1,8 @@
-Обязательный код подписки aiogram версии 3
+  Обязательный код подписки aiogram версии 3
 
-Required aiogram subscription code version 3
+  Required aiogram subscription code version 3
 
-Aiogram 3-versiyasining majburiy obuna kodi
+  Aiogram 3-versiyasining majburiy obuna kodi
 
 1.Yangi .env fayl oching.
 Unga:
